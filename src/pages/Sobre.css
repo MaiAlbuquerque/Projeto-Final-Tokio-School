@@ -1,0 +1,34 @@
+h1{
+    font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.containersobre{
+
+    display: flex;
+    padding: 80px;
+    margin: 20px;
+    gap: 5px;
+    align-items: center;
+}
+
+.imgsobre{
+    width: 100%;
+    height: auto;
+}
+
+.psobre{
+font-family: "Poppins", serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 13px;
+  text-align: justify;
+  padding: 40px;
+}
+
+.texto, .imagem {
+    flex: 1; }
