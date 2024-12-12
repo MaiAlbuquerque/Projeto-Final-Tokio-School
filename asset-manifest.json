@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Projeto-Final-Tokio-School/static/css/main.fec9a824.chunk.css",
+    "main.js": "/Projeto-Final-Tokio-School/static/js/main.79f9a16f.chunk.js",
+    "main.js.map": "/Projeto-Final-Tokio-School/static/js/main.79f9a16f.chunk.js.map",
+    "runtime-main.js": "/Projeto-Final-Tokio-School/static/js/runtime-main.3cfcf952.js",
+    "runtime-main.js.map": "/Projeto-Final-Tokio-School/static/js/runtime-main.3cfcf952.js.map",
+    "static/js/2.9ce7ce3c.chunk.js": "/Projeto-Final-Tokio-School/static/js/2.9ce7ce3c.chunk.js",
+    "static/js/2.9ce7ce3c.chunk.js.map": "/Projeto-Final-Tokio-School/static/js/2.9ce7ce3c.chunk.js.map",
+    "static/js/3.03c85f1c.chunk.js": "/Projeto-Final-Tokio-School/static/js/3.03c85f1c.chunk.js",
+    "static/js/3.03c85f1c.chunk.js.map": "/Projeto-Final-Tokio-School/static/js/3.03c85f1c.chunk.js.map",
+    "index.html": "/Projeto-Final-Tokio-School/index.html",
+    "precache-manifest.10974152101ddee79aa07ea2f03a2ca3.js": "/Projeto-Final-Tokio-School/precache-manifest.10974152101ddee79aa07ea2f03a2ca3.js",
+    "service-worker.js": "/Projeto-Final-Tokio-School/service-worker.js",
+    "static/css/main.fec9a824.chunk.css.map": "/Projeto-Final-Tokio-School/static/css/main.fec9a824.chunk.css.map",
+    "static/js/2.9ce7ce3c.chunk.js.LICENSE.txt": "/Projeto-Final-Tokio-School/static/js/2.9ce7ce3c.chunk.js.LICENSE.txt",
+    "static/media/compartilhar.jpg": "/Projeto-Final-Tokio-School/static/media/compartilhar.75fc1dd3.jpg",
+    "static/media/imgchef.jpg": "/Projeto-Final-Tokio-School/static/media/imgchef.eca29a54.jpg",
+    "static/media/imgsobre.jpg": "/Projeto-Final-Tokio-School/static/media/imgsobre.771aed9c.jpg",
+    "static/media/prato1.jpg": "/Projeto-Final-Tokio-School/static/media/prato1.8f58d54a.jpg",
+    "static/media/prato2.jpg": "/Projeto-Final-Tokio-School/static/media/prato2.06a74515.jpg",
+    "static/media/prato3.jpg": "/Projeto-Final-Tokio-School/static/media/prato3.9ba0987d.jpg",
+    "static/media/prato4.jpg": "/Projeto-Final-Tokio-School/static/media/prato4.a91e208d.jpg",
+    "static/media/prato5.jpg": "/Projeto-Final-Tokio-School/static/media/prato5.27ff0d26.jpg",
+    "static/media/prato6.jpg": "/Projeto-Final-Tokio-School/static/media/prato6.120e0c56.jpg",
+    "static/media/prato7.jpg": "/Projeto-Final-Tokio-School/static/media/prato7.172d5247.jpg",
+    "static/media/prato8.jpg": "/Projeto-Final-Tokio-School/static/media/prato8.9e162f10.jpg",
+    "static/media/Reservas.css": "/Projeto-Final-Tokio-School/static/media/reservas.8994196c.jpg",
+    "static/media/restinicial-h.jpg": "/Projeto-Final-Tokio-School/static/media/restinicial-h.c758df6b.jpg",
+    "static/media/restinicial-v.jpg": "/Projeto-Final-Tokio-School/static/media/restinicial-v.0701ac74.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cfcf952.js",
+    "static/js/2.9ce7ce3c.chunk.js",
+    "static/css/main.fec9a824.chunk.css",
+    "static/js/main.79f9a16f.chunk.js"
+  ]
+}
